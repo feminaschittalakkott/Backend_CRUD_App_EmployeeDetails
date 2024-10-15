@@ -1,0 +1,6 @@
+- Employee management server:
+
+    - Add Employee(firstname, lastname, age, qualification, email)
+    - View Employees
+    - Update specific employee details
+    - Delete an emmployee
